@@ -9,7 +9,7 @@ Reference: https://us.forums.blizzard.com/en/wow/t/chatframe-lua-error/47531
 
 ### Install
 
-While testing this -- perhaps for weeks, because the error doesn't show that anymore -- I am not going to upload this to Curse. Until then, you'll need to download this code and install it in your `Interface/AddOns` directory.
+While testing this -- perhaps for weeks, because the error doesn't show up that often anymore -- I am not going to upload this to Curse. Until then, you'll need to download this code and install it in your `Interface/AddOns` directory.
 
 1. Click the "Code" dropdown above.
 2. Select "Download ZIP".

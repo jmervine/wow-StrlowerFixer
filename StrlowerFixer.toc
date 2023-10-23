@@ -1,0 +1,8 @@
+## Title: StrlowerFixer 
+## Notes: Fix strlower error
+## Author: Hound @ Atiesh (WotLK)
+## Version: 0.0.1-beta1
+## Interface: 30404
+## X-Interface: 30404
+
+Core.lua

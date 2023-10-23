@@ -1,13 +1,9 @@
-local strlowerf = nil
+local strlowerf = string.lower
 if strlower then
     strlowerf = strlower
 end
 
 function strlower(str)
-    if not strlowerf then
-        strlowerf = string.lower 
-    end
-
     no_error, result = pcall(strlowerf, str)
     if no_error then
         return result
